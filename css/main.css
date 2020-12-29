@@ -226,7 +226,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Segoe UI,SegoeUI,Helvetica Neue,Helvetica,Arial,sans-serif;, -apple-system,Segoe UI,Helvetica Neue,Hiragino Kaku Gothic ProN,"メイリオ",meiryo,sans-serif;, -apple-system, Segoe UI, Helvetica Neue, Hiragino Kaku Gothic ProN, "メイリオ", meiryo, sans-serif, sans-serif;
+  font-family: -apple-system,Segoe UI,Helvetica Neue,Hiragino Kaku Gothic ProN,"メイリオ",meiryo,sans-serif;, -apple-system,Segoe UI,Helvetica Neue,Hiragino Kaku Gothic ProN,"メイリオ",meiryo,sans-serif;, -apple-system, Segoe UI, Helvetica Neue, Hiragino Kaku Gothic ProN, "メイリオ", meiryo, sans-serif, sans-serif;
   font-weight: bold;
   line-height: 1.5;
   margin: 20px 0 15px;
@@ -582,7 +582,7 @@ pre {
 }
 pre,
 code {
-  font-family: Segoe UI,SegoeUI,Helvetica Neue,Helvetica,Arial,sans-serif;, consolas, Menlo, monospace, -apple-system, Segoe UI, Helvetica Neue, Hiragino Kaku Gothic ProN, "メイリオ", meiryo, sans-serif;
+  font-family: -apple-system,Segoe UI,Helvetica Neue,Hiragino Kaku Gothic ProN,"メイリオ",meiryo,sans-serif;, consolas, Menlo, monospace, -apple-system, Segoe UI, Helvetica Neue, Hiragino Kaku Gothic ProN, "メイリオ", meiryo, sans-serif;
 }
 code {
   border-radius: 3px;
@@ -1305,7 +1305,7 @@ pre code {
   color: var(--brand-hover-color);
 }
 .site-title {
-  font-family: Segoe UI,SegoeUI,Helvetica Neue,Helvetica,Arial,sans-serif;, -apple-system,Segoe UI,Helvetica Neue,Hiragino Kaku Gothic ProN,"メイリオ",meiryo,sans-serif;, -apple-system, Segoe UI, Helvetica Neue, Hiragino Kaku Gothic ProN, "メイリオ", meiryo, sans-serif, sans-serif;
+  font-family: -apple-system,Segoe UI,Helvetica Neue,Hiragino Kaku Gothic ProN,"メイリオ",meiryo,sans-serif;, -apple-system,Segoe UI,Helvetica Neue,Hiragino Kaku Gothic ProN,"メイリオ",meiryo,sans-serif;, -apple-system, Segoe UI, Helvetica Neue, Hiragino Kaku Gothic ProN, "メイリオ", meiryo, sans-serif, sans-serif;
   font-size: 1.375em;
   font-weight: normal;
   margin: 0;
@@ -1976,7 +1976,7 @@ pre code {
   width: 4px;
 }
 .post-body {
-  font-family: Segoe UI,SegoeUI,Helvetica Neue,Helvetica,Arial,sans-serif;, -apple-system,Segoe UI,Helvetica Neue,Hiragino Kaku Gothic ProN,"メイリオ",meiryo,sans-serif;, -apple-system, Segoe UI, Helvetica Neue, Hiragino Kaku Gothic ProN, "メイリオ", meiryo, sans-serif, sans-serif;
+  font-family: -apple-system,Segoe UI,Helvetica Neue,Hiragino Kaku Gothic ProN,"メイリオ",meiryo,sans-serif;, -apple-system,Segoe UI,Helvetica Neue,Hiragino Kaku Gothic ProN,"メイリオ",meiryo,sans-serif;, -apple-system, Segoe UI, Helvetica Neue, Hiragino Kaku Gothic ProN, "メイリオ", meiryo, sans-serif, sans-serif;
   overflow-wrap: break-word;
 }
 @media (min-width: 1200px) {
@@ -2170,7 +2170,7 @@ pre code {
 }
 .posts-expand .post-meta-container {
   color: #999;
-  font-family: Segoe UI,SegoeUI,Helvetica Neue,Helvetica,Arial,sans-serif;, -apple-system,Segoe UI,Helvetica Neue,Hiragino Kaku Gothic ProN,"メイリオ",meiryo,sans-serif;, -apple-system, Segoe UI, Helvetica Neue, Hiragino Kaku Gothic ProN, "メイリオ", meiryo, sans-serif, sans-serif;
+  font-family: -apple-system,Segoe UI,Helvetica Neue,Hiragino Kaku Gothic ProN,"メイリオ",meiryo,sans-serif;, -apple-system,Segoe UI,Helvetica Neue,Hiragino Kaku Gothic ProN,"メイリオ",meiryo,sans-serif;, -apple-system, Segoe UI, Helvetica Neue, Hiragino Kaku Gothic ProN, "メイリオ", meiryo, sans-serif, sans-serif;
   font-size: 0.75em;
   margin-top: 3px;
 }
